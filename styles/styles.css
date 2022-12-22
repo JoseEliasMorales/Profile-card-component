@@ -121,7 +121,7 @@ body main .patternTop {
   width: 978px;
   height: 978px;
   top: 0;
-  translate: -50% -55%;
+  translate: -50% -50%;
 }
 body main .patternBottom {
   content: "";
